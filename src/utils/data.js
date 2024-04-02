@@ -43,25 +43,7 @@ export const DATA = [
         shape: "sqr-arch",
         buttonColor: "bg-orange-4",
         linkText: "learn_more",
-      },
-      {
-        id: 5,
-        title: "badge_explorer",
-        description: "badge_explorer_description",
-        image: "/images/learn-5.jpg",
-        shape: "sqr-circle",
-        buttonColor: "bg-purple-1",
-        linkText: "learn_more",
-      },
-      {
-        id: 6,
-        title: "diversity_equity_inclusion",
-        description: "diversity_equity_inclusion_description",
-        image: "/images/learn-6.png",
-        shape: "sqr-octagon",
-        buttonColor: "bg-purple-3",
-        linkText: "learn_more",
-      },
+      }
     ],
   },
   {
@@ -93,7 +75,7 @@ export const DATA = [
       },
       {
         id: 3,
-        title: "learn_more",
+        title: "join_learn_more",
         description: "join_learn_more_description",
         image: "/images/join-3.jpg",
         shape: "sqr-octagon",
@@ -111,15 +93,6 @@ export const DATA = [
     backgroundColor: "bg-green-2",
     buttonColor: "bg-purple-1",
     items: [
-      {
-        id: 1,
-        title: "dl_events",
-        description: "dl_events_description",
-        image: "/images/event-1.jpg",
-        shape: "sqr-octagon",
-        buttonColor: "bg-orange-2",
-        linkText: "find_events",
-      },
       {
         id: 3,
         title: "gsle_events",
@@ -156,24 +129,6 @@ export const DATA = [
         image: "/images/fam-2.jpg",
         shape: "sqr-octagon",
         buttonColor: "bg-purle-2",
-        linkText: "learn_more",
-      },
-      {
-        id: 3,
-        title: "family_fun_day",
-        description: "family_fun_day_description",
-        image: "/images/fam-3.jpg",
-        shape: "sqr-octagon",
-        buttonColor: "bg-green-1",
-        linkText: "learn_more",
-      },
-      {
-        id: 4,
-        title: "drop_in_programs",
-        description: "drop_in_programs_description",
-        image: "/images/fam-4.jpg",
-        shape: "sqr-octagon",
-        buttonColor: "bg-yellow-1",
         linkText: "learn_more",
       },
       {
@@ -215,15 +170,6 @@ export const DATA = [
         linkText: "get_started",
       },
       {
-        id: 3,
-        title: "program_and_events",
-        description: "program_and_events_description",
-        image: "/images/vol-3.jpg",
-        shape: "sqr-octagon",
-        buttonColor: "bg-orange-3",
-        linkText: "get_started",
-      },
-      {
         id: 4,
         title: "volunteer_essentials",
         description: "volunteer_essentials_description",
@@ -240,15 +186,6 @@ export const DATA = [
         shape: "sqr-octagon",
         buttonColor: "bg-orange-3",
         linkText: "learn_more",
-      },
-      {
-        id: 6,
-        title: "learn_more",
-        description: "volunteer_learn_more_description",
-        image: "/images/thumb-2.jpg",
-        shape: "sqr-octagon",
-        buttonColor: "bg-orange-6",
-        linkText: "get_started",
       },
     ]
   },
